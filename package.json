@@ -1,0 +1,9 @@
+{
+  "name": "walker-cli",
+  "version": "1.0.0",
+  "description": "前端脚手架",
+  "main": "index.js",
+  "repository": "https://github.com/shangxinglu/walker-cli.git",
+  "author": "walker <2609209328@qq.com>",
+  "license": "MIT"
+}
